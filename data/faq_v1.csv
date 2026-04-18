@@ -1,0 +1,16 @@
+question,intent,answer
+Làm sao để đăng ký học phần?,dang_ky_hoc_phan,Đăng nhập hệ thống và chọn mục đăng ký học phần.
+Khi nào bắt đầu đăng ký học phần?,dang_ky_hoc_phan,Theo lịch học vụ được nhà trường thông báo.
+Có thể đăng ký học phần ở đâu?,dang_ky_hoc_phan,Trên cổng thông tin sinh viên.
+Đăng ký học phần cần điều kiện gì?,dang_ky_hoc_phan,Cần hoàn thành các học phần tiên quyết nếu có.
+Có thể đăng ký tối đa bao nhiêu tín chỉ?,dang_ky_hoc_phan,Tùy quy định từng học kỳ của trường.
+Nếu đăng ký lỗi thì làm sao?,dang_ky_hoc_phan,Kiểm tra lại điều kiện hoặc liên hệ phòng đào tạo.
+Có thể hủy học phần đã đăng ký không?,dang_ky_hoc_phan,Có thể hủy trong thời gian cho phép.
+Đăng ký học phần có mất phí không?,dang_ky_hoc_phan,Không mất phí khi đăng ký, chỉ đóng học phí sau.
+Có thể đăng ký lại học phần trượt không?,dang_ky_hoc_phan,Có thể đăng ký học lại ở học kỳ sau.
+Nếu hết chỗ lớp học phần thì sao?,dang_ky_hoc_phan,Chọn lớp khác hoặc chờ mở thêm lớp.
+Có thể đăng ký học phần ngoài ngành không?,dang_ky_hoc_phan,Có nếu được cho phép trong chương trình học.
+Đăng ký học phần có cần cố vấn không?,dang_ky_hoc_phan,Một số trường yêu cầu xác nhận từ cố vấn học tập.
+Có thể sửa đăng ký sau khi đã chọn không?,dang_ky_hoc_phan,Có thể chỉnh sửa trong thời gian quy định.
+Làm sao biết đăng ký thành công?,dang_ky_hoc_phan,Kiểm tra danh sách học phần đã đăng ký.
+Quên đăng ký học phần thì sao?,dang_ky_hoc_phan,Liên hệ phòng đào tạo để được hỗ trợ.

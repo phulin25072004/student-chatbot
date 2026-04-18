@@ -29,3 +29,33 @@ Có thể in lịch học không?,lich_thi_hoc,Có thể tải và in từ hệ 
 Lịch thi có hiển thị phòng thi không?,lich_thi_hoc,Có kèm thông tin phòng thi và thời gian.
 Quên lịch thi thì xem lại ở đâu?,lich_thi_hoc,Xem lại trên hệ thống hoặc email thông báo.
 Lịch học có bao gồm phòng học không?,lich_thi_hoc,Có hiển thị phòng học cụ thể.
+Quy chế đào tạo là gì?,quy_che_dao_tao,Là các quy định về học tập và thi cử của trường.
+Điều kiện để được dự thi là gì?,quy_che_dao_tao,Phải tham gia đủ số buổi học theo quy định.
+Nếu nghỉ quá số buổi cho phép thì sao?,quy_che_dao_tao,Sẽ không đủ điều kiện dự thi.
+Học lại môn là gì?,quy_che_dao_tao,Là đăng ký học lại môn đã trượt.
+Có giới hạn số lần học lại không?,quy_che_dao_tao,Tùy theo quy định của nhà trường.
+Điểm đạt môn là bao nhiêu?,quy_che_dao_tao,Thường từ 4.0 trở lên theo thang 10.
+Nếu trượt môn thì làm gì?,quy_che_dao_tao,Phải đăng ký học lại ở học kỳ sau.
+Có được cải thiện điểm không?,quy_che_dao_tao,Có thể học lại để cải thiện điểm.
+Điều kiện để lên lớp là gì?,quy_che_dao_tao,Đạt đủ số tín chỉ và điểm theo quy định.
+Có bị cảnh báo học vụ không?,quy_che_dao_tao,Có nếu kết quả học tập thấp.
+Khi nào bị buộc thôi học?,quy_che_dao_tao,Khi vi phạm quy chế nghiêm trọng hoặc học kém kéo dài.
+Có được bảo lưu kết quả học không?,quy_che_dao_tao,Có thể bảo lưu trong một số trường hợp.
+Thi lại khác gì thi lần đầu?,quy_che_dao_tao,Là thi lại khi chưa đạt ở lần đầu.
+Có quy định về điểm danh không?,quy_che_dao_tao,Có yêu cầu điểm danh tối thiểu.
+Điều kiện tốt nghiệp là gì?,quy_che_dao_tao,Hoàn thành đủ tín chỉ và yêu cầu của chương trình.
+Môn học này có bao nhiêu tín chỉ?,thong_tin_mon_hoc,Số tín chỉ được quy định trong chương trình học.
+Tín chỉ là gì?,thong_tin_mon_hoc,Là đơn vị đo khối lượng học tập của môn học.
+Mỗi môn học có bao nhiêu tiết?,thong_tin_mon_hoc,Tùy theo số tín chỉ của môn.
+Xem thông tin môn học ở đâu?,thong_tin_mon_hoc,Xem trên cổng thông tin đào tạo.
+Môn này có tiên quyết không?,thong_tin_mon_hoc,Kiểm tra trong mô tả môn học.
+Điều kiện tiên quyết là gì?,thong_tin_mon_hoc,Là môn phải học trước khi đăng ký môn khác.
+Có thể học song song môn tiên quyết không?,thong_tin_mon_hoc,Tùy quy định từng môn.
+Môn học có bắt buộc không?,thong_tin_mon_hoc,Có môn bắt buộc và môn tự chọn.
+Có thể bỏ môn tự chọn không?,thong_tin_mon_hoc,Có thể chọn môn khác thay thế.
+Môn học có tài liệu không?,thong_tin_mon_hoc,Có tài liệu do giảng viên cung cấp.
+Ai giảng dạy môn học này?,thong_tin_mon_hoc,Thông tin giảng viên hiển thị trên hệ thống.
+Môn học kéo dài bao lâu?,thong_tin_mon_hoc,Thường trong một học kỳ.
+Có thể xem đề cương môn học không?,thong_tin_mon_hoc,Có thể xem trên hệ thống.
+Môn học có thi cuối kỳ không?,thong_tin_mon_hoc,Thường có thi cuối kỳ.
+Có thể đổi môn học sau khi đăng ký không?,thong_tin_mon_hoc,Có thể đổi trong thời gian cho phép.
